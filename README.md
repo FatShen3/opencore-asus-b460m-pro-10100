@@ -20,3 +20,4 @@ SSD: WD SN550 1TB
 * Restart, Sleep, Shutdown
 * Magic Mouse lag
 * Usb Port
+* ethernet
