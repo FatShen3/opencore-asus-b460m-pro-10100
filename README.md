@@ -19,5 +19,6 @@ SSD: WD SN550 1TB
 * double monitor
 * Restart, Sleep, Shutdown
 * Magic Mouse lag
-* Usb Port
+* Usb 3.0 not work, 2.0 work fine
 * ethernet
+* wake up bluetooth disabled
