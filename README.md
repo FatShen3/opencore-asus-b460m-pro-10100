@@ -13,12 +13,13 @@ SSD: WD SN550 1TB
 * Wifi
 * Bluetooth
 * Handoff, Air Drop
+* usb
 
 ## Not work
 
 * double monitor
 * Restart, Sleep, Shutdown
 * Magic Mouse lag
-* Usb 3.0 not work, 2.0 work fine
+* usb 3.0 type-c port not work on switch
 * ethernet
-* wake up bluetooth disabled
+* wake up bluetooth may disable
