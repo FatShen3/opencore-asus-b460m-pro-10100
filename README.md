@@ -14,12 +14,16 @@ SSD: WD SN550 1TB
 * Bluetooth
 * Handoff, Air Drop
 * usb
+* ethernet (Remember to set speed to 100baseTX)
+* double monitor
+* Restart, Sleep, Shutdown
 
 ## Not work
 
-* double monitor
-* Restart, Sleep, Shutdown
-* Magic Mouse lag
 * usb 3.0 type-c port not work on switch
-* ethernet
 * wake up bluetooth may disable
+
+## not work perfectly
+
+* double monitor when startup: it will mess up, so i need to pull out one (i.e hdmi port). When get into the system, put the hdmi back.
+* Magic Mouse lag
