@@ -14,7 +14,7 @@ SSD: WD SN550 1TB
 * Bluetooth
 * Handoff, Air Drop
 * usb
-* ethernet (Remember to set speed to 100baseTX)
+* ethernet (Remember to set network speed to match your cable type, i.e 1000baseT)
 * double monitor
 * Restart, Sleep, Shutdown
 
